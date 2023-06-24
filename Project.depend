@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1686845046 source:d:\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+
+1686846010 d:\project\splash.h
+
+1686842596 d:\project\login.h
+
+1686842609 d:\project\menu.h
+
