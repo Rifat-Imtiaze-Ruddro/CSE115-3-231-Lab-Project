@@ -20,7 +20,15 @@ This contains a function to call a splash screen that will dissappear after 5 se
                _ |_   _  ._  
               _> | | (_) |_) 
                          |   
-login.h>> 
+login.h>> >>
 
 This contains funtions needed to login or register a user
-function loginoRegister() calls out Functions 
+           loginorRegister()
+            /             \
+Loginuser()              RegisterUser()
+    |
+shop_menu()
+
+menu.h>>
+
+This caontain shop_menu() function
